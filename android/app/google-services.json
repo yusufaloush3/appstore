@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980825810003",
+    "firebase_url": "https://white-stork-ffc89.firebaseio.com",
+    "project_id": "white-stork-ffc89",
+    "storage_bucket": "white-stork-ffc89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980825810003:android:1ffaf0af7f1e26308f52a6",
+        "android_client_info": {
+          "package_name": "com.whitestork.xgeeks_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980825810003-8mfp83nt816gvjo5d2vlaoift1v69arg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-y5luIx80-Wi1Os9DW1jPNJoNfmuy3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980825810003-8mfp83nt816gvjo5d2vlaoift1v69arg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
